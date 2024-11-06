@@ -27,7 +27,7 @@ high level will be a huge help!
 
 {% tab title="Documentation" %}
 Writing technical docs is hard! Documentation can always be improved on, so this is an area we certainly need help
-with! Please feel free to open a PR to our documentation repo, or write a tutorial for others to follow.
+with! Please feel free to open a PR to [our documentation repo](https://github.com/Consensys/verax-documentation), or write a tutorial for others to follow.
 {% endtab %}
 
 {% tab title="General Coding" %}
